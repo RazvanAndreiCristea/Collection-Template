@@ -1,0 +1,1 @@
+Aici veti vedea o varianta de implementare a clasei template Colectionar in fisiere .hpp si .cpp. Solutia oferita nu este unica.
